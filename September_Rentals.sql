@@ -1,4 +1,4 @@
-// 2614 - September Rentals 
+-- 2614 - September Rentals 
 
 SELECT name, rentals_date
 FROM customers
